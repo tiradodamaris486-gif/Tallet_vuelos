@@ -1,0 +1,8 @@
+{
+  "name": "taller-vuelos",
+  "version": "1.0.0",
+  "description": "Taller SENA: CRUD en capas (pilotos, aviones, asignaciones)",
+  "main": "src/app.js",
+  "scripts": { "start": "node src/app.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
