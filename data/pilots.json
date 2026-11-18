@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Damaris Ayala",
+    "licencia": "ATP-001",
+    "horasVuelo": 1300,
+    "estado": "activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana",
+    "licencia": "A1",
+    "horasVuelo": 10,
+    "estado": "activo"
+  }
+]
